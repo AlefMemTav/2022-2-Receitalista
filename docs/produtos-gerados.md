@@ -82,6 +82,7 @@ Nas próximas sprints as atividades precisam ser feitas com mais antecedência.
 
 ## Sprint 5
 #### Planejamento do Sprint
+O objetivo dessa sprint foi configurar o ambiente de desenvolvimento e terminar as correçõs no visão.
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Corrigir matriz de comunicação |
@@ -90,17 +91,18 @@ N° | Backlog do Sprint |
 4| Colocar as atividades de cada evento Scrum | 
 5| Corrigir valor das histórias de usuário |
 6| Configuração de ambiente para desenvolvimento |
+7| Criar backlog PBB |
 
 #### Issue do Sprint
 ![image](https://user-images.githubusercontent.com/97984278/215751199-931df1c9-4813-435d-9e98-ff31d7126105.png)
 
 #### Revisão do Sprint
+As atividades 1 a 5 do backlog do produto foram feitas pelo membro Pedro Lucas. A atividade 6 foi feita pelos membros Lucas Gomes, Pedro Lucas e Valderson Pontes. A ativdade 7 foi feita pelo membro Pedro Lucas.
 
+
+Todas as atividades definidas no backlog do produto foram realizadas dentro do sprint.
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | A equipe cumpriu com o que foi planejado para a sprint |
-
+A equipe cumpriu com o que foi planejado para a sprint. A migração para o GitHub Issues deu bons resultados.
 
 ## Sprint 6
 #### Planejamento do Sprint
@@ -118,9 +120,7 @@ N° | Backlog do Sprint |
 #### Revisão do Sprint
 
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | A equipe precisa cumprir os prazos |
+A equipe precisa cumprir os prazos
 
 
 ## Sprint 7
@@ -135,10 +135,8 @@ N° | Backlog do Sprint |
 #### Revisão do Sprint
 
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | Nessa sprint ocorreu um melhor cumprimento dos prazos em detrimento da divisão das tasks de forma igualitária aos membros da equipe |
-2 | As reuniões precisam ser feitas no dia determinado |
+Nessa sprint ocorreu um melhor cumprimento dos prazos em detrimento da divisão das tasks de forma igualitária aos membros da equipe
+As reuniões precisam ser feitas no dia determinado
 
 
 ## Sprint 8
@@ -154,11 +152,8 @@ N° | Backlog do Sprint |
 ![image](https://user-images.githubusercontent.com/97984278/215752051-112f80cd-72ec-41b5-ad0e-a63d3d445829.png)
 
 #### Revisão do Sprint
-
+Como melhoria da sprint passada, para essa sprint foi estipulado um dia em que todos os membros puderam participar
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | Como melhoria da sprint passada, para essa sprint foi estipulado um dia em que todos os membros puderam participar |
 
 
 ## Sprint 9
@@ -177,9 +172,6 @@ N° | Feedback do Sprint |
 :-----:|---------|
 1 | Nessa sprint tudo ocorreu como planejado |
 
-
-
-<i>A fazer </i>
 
 ## Sprint 10
 O objetivo dessa sprint foi implementar as histórias de usuário US14, US18, US19, US20.
