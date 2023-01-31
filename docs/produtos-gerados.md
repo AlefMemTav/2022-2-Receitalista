@@ -17,6 +17,7 @@ A partir do próximo Sprint é necessário separar as atividades para cada membr
 
 ## Sprint 2 
 #### Planejamento do Sprint
+O objetivo dessa sprint foi criar um projeto para a construção do produto e separar as atividades para cada membro como definido na sprint passada.
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Definir a organização do projeto e os papéis de cada membro |
@@ -28,12 +29,18 @@ N° | Backlog do Sprint |
 7| Configurar o GitHub Pages |
 
 #### Revisão do Sprint
+As atividades de 1 a 6 do backlog do Sprint foram feitas por todos os membros da equipe, já a atividade 7 de configuração do GitHub Pages foi feita pelo membro Valderson Pontes.
 
+
+A responsabilidade de cada membro do projeto separada de acordo com a tabela <a href="https://mdsreq-fga-unb.github.io/2022.2-Receitalista/visao-produto/">2.1 - Organização do Projeto</a>:
+1. Desenvolvedor Frontend - Pedro Lucas junto com Pedro Henrique e Matheus Raphael.
+2. Desenvolvedor Backend - Lucas Gomes junto com Valderson Pontes
+3. DevOps - Lucas Gomes
+4. Dono do Produto - Pedro Henrique
+5. Scrum Master - Valderson Pontes
+
+Todas as atividades definidas no backlog do produto foram realizadas dentro do sprint.
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | Responsabilidade de cada membro do projeto separada de acordo com a tabela <a href="https://mdsreq-fga-unb.github.io/2022.2-Receitalista/visao-produto/">2.1 - Organização do Projeto</a>. |
-2 | Requer maior participação de todos os membros do projeto. |
 
 
 ## Sprint 3
