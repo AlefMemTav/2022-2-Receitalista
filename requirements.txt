@@ -12,3 +12,5 @@ mkdocs-material==8.5.9
 
 # Deploy
     # $ mkdocs gh-deploy
+# Test Local Host
+    # $ mkdocs serve
