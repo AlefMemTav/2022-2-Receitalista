@@ -1,11 +1,14 @@
 # Produtos gerados
 ## Sprint 1
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Definir declaração de posição do produto |
 2| Definir objetivos do produto|
 3| Definir tecnologias a serem usadas | 
 4| Configurar o repositório do GitHub |
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -14,6 +17,7 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 2 
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Definir a organização do projeto e os papéis de cada membro |
@@ -24,6 +28,8 @@ N° | Backlog do Sprint |
 6| Definir o processo de desenvolvimento |
 7| Configurar o GitHub Pages |
 
+#### Revisão do Sprint
+
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
 :-----:|---------|
@@ -32,9 +38,12 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 3
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Corrigir todo o documento Visão Geral do Produto e Projeto |
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -44,6 +53,7 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 4
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Definir Backlog do Produto |
@@ -55,6 +65,8 @@ N° | Backlog do Sprint |
 ### Issue
 ![image](https://user-images.githubusercontent.com/97984278/210287169-9a4c9118-e701-4339-bf76-1db43d0ba72d.png)
 
+#### Revisão do Sprint
+
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
 :-----:|---------|
@@ -62,6 +74,7 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 5
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Corrigir matriz de comunicação |
@@ -71,8 +84,10 @@ N° | Backlog do Sprint |
 5| Corrigir valor das histórias de usuário |
 6| Configuração de ambiente para desenvolvimento |
 
-### Issue
-![image](https://user-images.githubusercontent.com/97984278/210287260-49d3e29b-218c-4666-834c-326dc9116ee2.png)
+#### Issue do Sprint
+![image](https://user-images.githubusercontent.com/97984278/215751199-931df1c9-4813-435d-9e98-ff31d7126105.png)
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -81,6 +96,7 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 6
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Modelagem do Banco de Dados |
@@ -89,8 +105,10 @@ N° | Backlog do Sprint |
 4| Corrigir o Backlog do Produto | 
 5| Implementação das US01, US02, US06, US09, US10, US13 |
 
-### Issue
-![image](https://user-images.githubusercontent.com/97984278/210287278-cc0ace79-6d5c-4de2-998d-8cd0c695cb3c.png)
+#### Issue do Sprint
+![image](https://user-images.githubusercontent.com/97984278/215751625-878885e4-9a4b-49a5-bc9a-5c19978d45dd.png)
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -99,12 +117,15 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 7
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1|  Implementação das US04, US07, US11 |
 
-### Issue
-![image](https://user-images.githubusercontent.com/97984278/210287301-dcd95131-2492-484e-892d-7a76ee5c01c0.png)
+#### Issue do Sprint
+![image](https://user-images.githubusercontent.com/97984278/215751848-0eb12db1-5de7-41b1-87da-79cb56c7de80.png)
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -114,6 +135,7 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 8
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1 | Simplificar e corrigir as histórias de usuário |
@@ -121,8 +143,10 @@ N° | Backlog do Sprint |
 3 | Criar critérios de aceitação |
 4 | Implementação da US03 e US05 |
 
-### Issue
-![image](https://user-images.githubusercontent.com/65057466/214194647-6cf873c6-c9f9-42b9-ac20-f79e87a71260.png)
+#### Issue do Sprint
+![image](https://user-images.githubusercontent.com/97984278/215752051-112f80cd-72ec-41b5-ad0e-a63d3d445829.png)
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -131,12 +155,15 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 9
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1 | Implementação da US12 e US08 |
 
-### Issue
-![image](https://user-images.githubusercontent.com/65057466/214195104-25781457-f22a-4c40-a433-ddbfd496bdee.png)
+#### Issue do Sprint
+![image](https://user-images.githubusercontent.com/97984278/215752219-db3dfdb5-d8d0-4206-a0fd-9051c8779a20.png)
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -148,12 +175,17 @@ N° | Feedback do Sprint |
 <i>A fazer </i>
 
 ## Sprint 10
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1 |  |
 
-### Issue
-![image]()
+#### Issue do Sprint
+![image](https://user-images.githubusercontent.com/97984278/215752422-32ff765b-4b74-49d1-a7bf-fc6f967aac5a.png)
+![image](https://user-images.githubusercontent.com/97984278/215752464-b54be2a0-3fc0-47da-85fc-f7301cb6d4c7.png)
+
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -162,12 +194,15 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 11
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1 |  |
 
-### Issue
-![image]()
+#### Issue do Sprint
+![image](https://user-images.githubusercontent.com/97984278/215752747-b5d36ea9-d7f8-47ea-87f7-cb774ef24cc9.png)
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
@@ -177,12 +212,15 @@ N° | Feedback do Sprint |
 
 
 ## Sprint 12
+#### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
 1 |  |
 
 ### Issue
-![image]()
+![image](https://user-images.githubusercontent.com/97984278/215752858-6c450611-69a2-4d1a-82e0-77dbe458b561.png)
+
+#### Revisão do Sprint
 
 #### Retrospectiva do Sprint
 N° | Feedback do Sprint |
