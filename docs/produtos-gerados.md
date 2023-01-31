@@ -45,21 +45,21 @@ Todas as atividades definidas no backlog do produto foram realizadas dentro do s
 
 ## Sprint 3
 #### Planejamento do Sprint
+O objetivo dessa sprint foi atualizar e corrigir a documentação do visão geral do produto e projeto.
 N° | Backlog do Sprint |
 :-----:|---------|
-1| Corrigir todo o documento Visão Geral do Produto e Projeto |
+1| Criar e atribuir tasks para cada membro no Trello|
+2| Corrigir todo o documento Visão Geral do Produto e Projeto |
 
 #### Revisão do Sprint
-
+A criação do Trello para o artefato do Quadro Scrum foi feita pelo membro Valderson Pontes, mas a plataforma foi abandonada pela equipe. A correção da documentação não foi concluída nessa sprint.
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | Atribuição de tasks para cada membro no Trello |
-2 | Precisa fazer as atividades com mais antecedência |
+Na próxima sprint é necessário migrar o Quadro Scrum para outra plataforma.
 
 
 ## Sprint 4
 #### Planejamento do Sprint
+O objetivo dessa sprint foi criar o backlog do produto e as histórias de usuário de acordo com o modelo SAFe e terminar a correção do visão iniciada na sprint passada.
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Definir Backlog do Produto |
@@ -68,15 +68,16 @@ N° | Backlog do Sprint |
 4| Corrigir a Matriz de Comunicação |
 5| Corrigir o Planejamento das Fases e/ou Iterações do Projeto |
 
-### Issue
+#### Issue do Sprint
 ![image](https://user-images.githubusercontent.com/97984278/210287169-9a4c9118-e701-4339-bf76-1db43d0ba72d.png)
 
 #### Revisão do Sprint
+As atividades 1 e 2 do backlog do Sprint foram feitas pelos membros Lucas Gomes, Valderson Pontes e Pedro Henrique, já as atividades 4 e 5 foram feitas pelo membro Pedro Lucas.
 
+
+Como alternativa ao Trello para a criação do artefato do quadro, foi-se escolhido e feito a migração para o GitHub Issues pelo membro Pedro Lucas.
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | Mudança do ambiente das tasks para o GitHub Issues e instituição de prazos de entrega |
+Nas próximas sprints as atividades precisam ser feitas com mais antecedência. 
 
 
 ## Sprint 5
