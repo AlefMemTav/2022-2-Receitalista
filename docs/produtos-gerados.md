@@ -44,6 +44,7 @@ As atividades de 1 a 6 do backlog do Sprint foram feitas por todos os membros da
 
 
 A responsabilidade de cada membro do projeto separada de acordo com a tabela <a href="https://mdsreq-fga-unb.github.io/2022.2-Receitalista/visao-produto/">2.1 - Organização do Projeto</a>:
+
 1. Desenvolvedor Frontend - Pedro Lucas junto com Pedro Henrique e Matheus Raphael.
 2. Desenvolvedor Backend - Lucas Gomes junto com Valderson Pontes
 3. DevOps - Lucas Gomes
@@ -119,7 +120,11 @@ O objetivo dessa sprint foi configurar o ambiente de desenvolvimento e terminar 
 
 #### Revisão do Sprint
 
-As atividades 1 a 5 do backlog do produto foram feitas pelo membro Pedro Lucas. A atividade 6 foi feita pelos membros Lucas Gomes, Pedro Lucas e Valderson Pontes. A ativdade 7 foi feita pelo membro Pedro Lucas.
+As atividades 1 a 5 do backlog do produto foram feitas pelo membro Pedro Lucas. 
+
+A atividade 6 foi feita pelos membros Lucas Gomes, Pedro Lucas e Valderson Pontes.
+
+A ativdade 7 foi feita pelo membro Pedro Lucas.
 
 Todas as atividades definidas no backlog do produto foram realizadas dentro do sprint.
 
@@ -230,6 +235,7 @@ N° | Backlog do Sprint |
 A atividade 1 do backlog foi feito pelo membro Pedro Lucas, já a atividade 2 foi feita pelo membro Lucas Gomes.
 
 A divisão das histórias foi:
+
 1. US14 - Pedro Henrique, Valderson Pontes
 2. US18 - Pedro Henrique, Lucas Gomes
 3. US19 - Mathes, Lucas Gomes
