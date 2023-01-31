@@ -33,3 +33,13 @@
 <br>
 
 - <img width="550px" src="../assets/user_case_receitalista.png" alt="diagrama uc"/>
+
+### Especificações dos Casos de Uso 
+
+- [Visualizar Cliente - Lucas](https://docs.google.com/document/d/1hLsDRmeDMgnzcl8fA6GSpXGKkP7qfc5P/edit?usp=sharing&ouid=102942313724533439989&rtpof=true&sd=true)
+- [Visualizar Material - Valderson](https://docs.google.com/document/d/1DkBdc9fVv5ZICmUhpiVO8Ni7jxBgFPnw/edit?usp=sharing&ouid=102942313724533439989&rtpof=true&sd=true)
+- [Visualizar Produto - Pedro Lucas](https://docs.google.com/document/d/1r09UaPowbIaJ07iVEqF6nEaYlwUtEK4V/edit?usp=sharing&ouid=102942313724533439989&rtpof=true&sd=true)
+- [Visualizar Pedido - Pedro Henrique](https://drive.google.com/file/d/18AZBHDtYWGU9nBSDc72YTvFVYnnPTbOA/view?usp=sharing)
+- [Cadastrar no Receitalista - Matheus](https://docs.google.com/document/d/1DkBdc9fVv5ZICmUhpiVO8Ni7jxBgFPnw/edit?usp=sharing&ouid=102942313724533439989&rtpof=true&sd=true)
+
+<br>
