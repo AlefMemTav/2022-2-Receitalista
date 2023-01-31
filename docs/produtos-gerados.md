@@ -182,11 +182,13 @@ N° | Feedback do Sprint |
 <i>A fazer </i>
 
 ## Sprint 10
+O objetivo dessa sprint foi implementar as histórias de usuário US14, US18, US19, US20.
 #### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
-1 | Criar diagrama de Casos de Uso |
-2 | Implementação das US14, US18, US19, US20 |
+1 | Corrigir critérios de aceitação do MVP1 |
+2 | Criar diagrama de Casos de Uso |
+3 | Implementação das US14, US18, US19, US20 |
 
 #### Issue do Sprint
 ![image](https://user-images.githubusercontent.com/97984278/215752422-32ff765b-4b74-49d1-a7bf-fc6f967aac5a.png)
@@ -194,15 +196,22 @@ N° | Backlog do Sprint |
 
 
 #### Revisão do Sprint
+A atividade 1 do backlog foi feito pelo membro Pedro Lucas, já a atividade 2 foi feita pelo membro Lucas Gomes.
 
+
+A divisão das histórias foi:
+1. US14 - Pedro Henrique, Valderson Pontes
+2. US18 - Pedro Henrique, Lucas Gomes
+3. US19 - Mathes, Lucas Gomes
+4. US20 - Pedro Lucas, Lucas Gomes
+
+As histórias de usuário foram parcialmente concluídas nessa sprint.
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 |  |
-
+Deve-se terminar todas as histórias de usuário que não foram terminadas da sprint 10 na sprint 11.
 
 ## Sprint 11
 #### Planejamento do Sprint
+O objetivo dessa sprint foi implementar as histórias de usuário US15, US16, US17, US21, US22.
 N° | Backlog do Sprint |
 :-----:|---------|
 1 | Criar especificação de Casos de Uso |
@@ -212,26 +221,24 @@ N° | Backlog do Sprint |
 ![image](https://user-images.githubusercontent.com/97984278/215752747-b5d36ea9-d7f8-47ea-87f7-cb774ef24cc9.png)
 
 #### Revisão do Sprint
+Esse sprint termina dia 31/01/2023
 
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 |  |
-
+Esse sprint termina dia 31/01/2023
 
 
 ## Sprint 12
 #### Planejamento do Sprint
+Esse sprint só começa dia 01/02/2023
 N° | Backlog do Sprint |
 :-----:|---------|
 1 | Implementação das US23, US24 |
 
 #### Issue do Sprint
+Esse sprint só começa dia 01/02/2023
 ![image](https://user-images.githubusercontent.com/97984278/215752858-6c450611-69a2-4d1a-82e0-77dbe458b561.png)
 
 #### Revisão do Sprint
-
+Esse sprint só começa dia 01/02/2023
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 |  |
+Esse sprint só começa dia 01/02/2023
