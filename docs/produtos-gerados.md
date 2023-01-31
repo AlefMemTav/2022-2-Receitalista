@@ -1,6 +1,7 @@
-# Produtos gerados
+# Eventos gerados por Sprint
 ## Sprint 1
 #### Planejamento do Sprint
+O objetivo dessa sprint foi definir o que era o produto com o Dono do Produto e o time de desenvolvimento.
 N° | Backlog do Sprint |
 :-----:|---------|
 1| Definir declaração de posição do produto |
@@ -8,13 +9,11 @@ N° | Backlog do Sprint |
 3| Definir tecnologias a serem usadas | 
 4| Configurar o repositório do GitHub |
 
+As atividades do backlog do Sprint foram feitas por todos os membros da equipe. 
 #### Revisão do Sprint
-
+Todas as atividades definidas no backlog do produto foram realizadas dentro do sprint.
 #### Retrospectiva do Sprint
-N° | Feedback do Sprint |
-:-----:|---------|
-1 | Necessário separar as responsabilidades do projeto para cada membro |
-
+A partir do próximo Sprint é necessário separar as atividades para cada membro da equipe para gerar mais eficiência.
 
 ## Sprint 2 
 #### Planejamento do Sprint
@@ -178,7 +177,8 @@ N° | Feedback do Sprint |
 #### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
-1 |  |
+1 | Criar diagrama de Casos de Uso |
+2 | Implementação das US14, US18, US19, US20 |
 
 #### Issue do Sprint
 ![image](https://user-images.githubusercontent.com/97984278/215752422-32ff765b-4b74-49d1-a7bf-fc6f967aac5a.png)
@@ -197,7 +197,8 @@ N° | Feedback do Sprint |
 #### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
-1 |  |
+1 | Criar especificação de Casos de Uso |
+2 | Implementação das US15, US16, US17, US21, US22 |
 
 #### Issue do Sprint
 ![image](https://user-images.githubusercontent.com/97984278/215752747-b5d36ea9-d7f8-47ea-87f7-cb774ef24cc9.png)
@@ -215,9 +216,9 @@ N° | Feedback do Sprint |
 #### Planejamento do Sprint
 N° | Backlog do Sprint |
 :-----:|---------|
-1 |  |
+1 | Implementação das US23, US24 |
 
-### Issue
+#### Issue do Sprint
 ![image](https://user-images.githubusercontent.com/97984278/215752858-6c450611-69a2-4d1a-82e0-77dbe458b561.png)
 
 #### Revisão do Sprint
