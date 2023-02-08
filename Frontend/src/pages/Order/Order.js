@@ -1,14 +1,14 @@
 import { useNavigate, useParams } from 'react-router-dom'
 import { useEffect, useState } from 'react'
 
-import classes from './Product.module.css'
+import classes from './Order.module.css'
 import classes1 from '../../components/Button/CardButton.module.css'
 
 import Container from '../../components/Container/Container'
 import Message from '../../components/Message/Message'
 
 import axios from '../../api/axios'
-import ProductForm from '../../components/Form/ProductForm'
+import UpdateOrder from '../../components/Form/UpdateOrder'
 
 function getArraySize(array) {
 	let counter = 0;
@@ -18,11 +18,11 @@ function getArraySize(array) {
 	return counter;
 }
 
-function Product() {
+function Order() {
 	let { id } = useParams()
 
-	const [product, setProduct] = useState({});
-	const [showProductForm, setShowProductForm] = useState(false);
+	const [order, setOrder] = useState({});
+	const [showOrderForm, setShowOrderForm] = useState(false);
 	const [totalPrice, setTotalPrice] = useState(0);
 	const navigate = useNavigate();
 	const [itemList, setItemList] = useState([]);
@@ -30,15 +30,15 @@ function Product() {
 	const [type, setType] = useState('success')
 
 	useEffect(() => {
-		axios.get(`/product/${id}`, { headers: { "Authorization": `Bearer ${localStorage.getItem('acess_token')}` } }).then((response) => {
-			setProduct(response.data.product);
+		axios.get(`/order/${id}`, { headers: { "Authorization": `Bearer ${localStorage.getItem('acess_token')}` } }).then((response) => {
+			setOrder(response.data.order);
 		}).catch(err => {
 			console.log(err);
 		})
 	}, []);
 
-	function toggleProductForm() {
-		setShowProductForm(!showProductForm);
+	function toggleOrderForm() {
+		setShowOrderForm(!showOrderForm);
 	}
 
 	const handleSubmit = async (e) => {
@@ -46,40 +46,40 @@ function Product() {
 
 		if (!id) {
 			console.log("Não está passando o id como parâmetro");
-		} else if (!product.name) {
-			setMessage('O nome do produto não pode estar vazio')
+		} else if (!order.name) {
+			setMessage('O nome do pedido não pode estar vazio')
 			setType('error')
 		} else if (getArraySize(itemList) < 1) {
-			setMessage('Adicione ao menos um material ao produto')
+			setMessage('Adicione ao menos um produto ao pedido')
 			setType('error')
 		} else {
 			console.log(itemList);
-			await axios.put(`/product/${id}`, { name: product.name, description: product.description, itens: itemList }, { headers: { "Authorization": `Bearer ${localStorage.getItem('acess_token')}` } }).then(response => {
+			await axios.put(`/order/${id}`, { name: order.name, description: order.description, itens: itemList }, { headers: { "Authorization": `Bearer ${localStorage.getItem('acess_token')}` } }).then(response => {
 				console.log(response);
-				setMessage('Produto atualizado com sucesso')
+				setMessage('Pedido atualizado com sucesso')
 				setType('success')
-				setShowProductForm(!showProductForm)
+				setShowOrderForm(!showOrderForm)
 			}).catch(err => {
 				console.log(err);
-				alert("Não foi possível atualizar o produto!");
+				alert("Não foi possível atualizar o pedido!");
 			});
 		}
 	}
 
 	return (
 		<>
-			{product || product.name ? (
-				<div className={classes.product_details}>
+			{order || order.name ? (
+				<div className={classes.order_details}>
 					<Container customClass="column">
 						{message && <Message type={type} msg={message} />}
 						<div className={classes.details_container}>
-							<h1>Produto: {product.name}</h1>
+							<h1>Pedido: {order.name}</h1>
 							<div className={classes1.btn}>
-								<button onClick={toggleProductForm}>
-									{!showProductForm ? 'Editar produto' : 'Fechar'}
+								<button onClick={toggleOrderForm}>
+									{!showOrderForm ? 'Editar pedido' : 'Fechar'}
 								</button>
 							</div>
-							{!showProductForm ? (
+							{!showOrderForm ? (
 								<div className={classes.form}>
 									<p>
 										<span>Preço de venda:</span> R$ 0,00
@@ -89,20 +89,20 @@ function Product() {
 										<span>Margem de lucro:</span> 0,00%
 									</p>
 									<p>
-										<span>Valor dos materiais:</span> R$ {product.total_price},00
+										<span>Valor dos produtos:</span> R$ {order.total_price},00
 									</p>
 									<p>
 										<span>Custo de produção:</span> R$ 0,00
 									</p>
 									<p>
-										<span>Descrição:</span> {product.description}
+										<span>Descrição:</span> {order.description}
 									</p>
 								</div>
 							) : (
 								<div className={classes.form}>
-									<ProductForm
-										product={product}
-										setProduct={setProduct}
+									<UpdateOrder
+										order={order}
+										setOrder={setOrder}
 										totalPrice={totalPrice}
 										setTotalPrice={setTotalPrice}
 										itemList={itemList}
@@ -119,4 +119,4 @@ function Product() {
 	)
 }
 
-export default Product
+export default Order
